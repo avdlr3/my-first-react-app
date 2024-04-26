@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>This is my first react app. Pipeline 2</h1>
+      <h1>This is my first react app. Pipeline test 3</h1>
       <h1>Hello</h1>
       <h1>Azure DevOps learning path.</h1>
       <header className="App-header">
