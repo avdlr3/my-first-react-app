@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <h1>This is my first react app. Pipeline super test demo notaria heroku 12</h1>
-      <h1>Hello</h1>
       <h1>Azure DevOps learning path.</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
